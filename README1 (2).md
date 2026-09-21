@@ -23,7 +23,7 @@ The two push switches act as the two inputs of the AND gate. When both switches 
 
 # **5\. Truth Table**
 
-![image2](andgate.png)
+![image2](and gate.png)
 
 ## **6\. Soldering**
 
