@@ -17,7 +17,7 @@
 * The LED glows only when both push buttons are pressed. If either one or both buttons are not pressed, the LED remains OFF.![image1](CIR4.png)
 
 *Truth Table:*  
-*![image2]*(VAIZ.png)  
+![image2](VAIZ.png)  
 *Procedure:*
 
 * Connect the 9V battery to the circuit.  
